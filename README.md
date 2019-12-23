@@ -1,7 +1,7 @@
 # Intro to Graphql
 
 This example repo for a backend Express App.
-I this [walkthrough](https://backend.turing.io/module4/lessons/pets_gql_walkthrough) for learn how to use GraphQL.
+Use this [walkthrough](https://backend.turing.io/module4/lessons/pets_gql_walkthrough) for learn how to use GraphQL.
 
 ## Getting Started
 
