@@ -1,12 +1,9 @@
-# pets_gql
+# Intro to Graphql
 
-An example repo for backend module 4 graphql lesson.
+This example repo for a backend Express App.
+I this [walkthrough](https://backend.turing.io/module4/lessons/pets_gql_walkthrough) for learn how to use GraphQL.
 
 ## Getting Started
-
-* Clone the repo and navigate to the project directory
-
-* Create the database
 
 ```
 psql
@@ -19,5 +16,3 @@ CREATE DATABASE furbabies;
 * Run migrations `knex migrate:latest`
 
 * Seed database `knex seed:run`
-
-Use this [walkthrough](https://backend.turing.io/module4/lessons/pets_gql_walkthrough) to get started.
